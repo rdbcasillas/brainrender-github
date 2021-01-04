@@ -1,0 +1,70 @@
+﻿Region ID,Region name,Category ID,Category Name, 168-L, 168-R, 168-Tot
+1,Dorsal motor nucleus of the vagus nerve,1,Solitary,6,2,8
+2,Cuneate nucleus,1,Solitary,31,83,114
+3,Gracile nucleus,1,Solitary,68,70,138
+4,Nucleus of the solitary tract,1,Solitary,208,179,387
+5,Medulla,1,Solitary,247,155,402
+6,"Medullary reticular nucleus, ventral part",2,Medullary reticular nucleus,363,383,746
+7,"Medullary reticular nucleus, dorsal part",2,Medullary reticular nucleus,415,419,834
+8,Magnocellular reticular nucleus,3,Magnocellular Ret. Nuc.,626,519,1145
+9,Gigantocellular reticular nucleus,4,Gigantocellular reticular nucleus,3968,4083,8051
+10,"Lateral reticular nucleus, magnocellular part",5,Lateral Reticular,235,335,570
+11,"Paragigantocellular reticular nucleus, lateral part",5,Lateral Reticular,292,368,660
+12,Intermediate reticular nucleus,5,Lateral Reticular,354,557,911
+13,Parvicellular reticular nucleus,5,Lateral Reticular,6,4,10
+14,"Paragigantocellular reticular nucleus, dorsal part",6,Dorsal Reticular,19,19,38
+15,Nucleus raphe magnus,7,Raphe nucleus,192,109,301
+16,Nucleus raphe obscurus,7,Raphe nucleus,38,38,76
+17,Facial motor nucleus,30,Unused,19,15,34
+18,Hypoglossal nucleus,8,Hypoglossal related,15,24,39
+19,Nucleus of Roller,8,Hypoglossal related,1,1,2
+20,Nucleus prepositus,8,Hypoglossal related,0,0,0
+21,"Spinal nucleus of the trigeminal, interpolar part",9,Trigeminal,0,1,1
+22,"Spinal nucleus of the trigeminal, caudal part",9,Trigeminal,7,10,17
+23,Spinal vestibular nucleus,10,Vestibular nucleus,73,105,178
+24,Medial vestibular nucleus,10,Vestibular nucleus,44,25,69
+25,Lateral vestibular nucleus,10,Vestibular nucleus,16,14,30
+26,"Pontine reticular nucleus, caudal part",11,Pontine Reticular,626,562,1188
+27,Pontine reticular nucleus,11,Pontine Reticular,882,919,1801
+28,"Superior olivary complex, lateral part",12,Superior olivary complex,9,7,16
+29,"Superior olivary complex, medial part",12,Superior olivary complex,2,3,5
+30,"Superior olivary complex, periolivary region",12,Superior olivary complex,3,2,5
+31,Peritrigeminal zone,13,Pontine Trigeminal region,16,3,19
+32,Supratrigeminal nucleus,13,Pontine Trigeminal region,12,10,22
+33,Pontine central gray,14,Pontine Central Gray adjacent,158,241,399
+34,Sublaterodorsal nucleus,14,Pontine Central Gray adjacent,71,89,160
+35,Laterodorsal tegmental nucleus,14,Pontine Central Gray adjacent,145,93,238
+36,Subceruleus nucleus,14,Pontine Central Gray adjacent,45,16,61
+37,Barrington's nucleus,14,Pontine Central Gray adjacent,55,40,95
+38,Pons,14,Pontine Central Gray adjacent,574,391,965
+39,Locus ceruleus,30,Unused,5,10,15
+40,Parabrachial nucleus,15,Parabrachial / Pedunculopontine area,9,8,17
+41,Pedunculopontine nucleus,15,Parabrachial / Pedunculopontine area,124,130,254
+42,Fastigial nucleus,16,Cerebellospinal nuclei,0,0,0
+43,Interposed nucleus,16,Cerebellospinal nuclei,0,0,0
+44,Red nucleus,17,Red nucleus,564,462,1026
+45,Edinger-Westphal nucleus,18,Midbrain midline nuclei,9,16,25
+46,Interstitial nucleus of Cajal,18,Midbrain midline nuclei,33,25,58
+47,Nucleus of Darkschewitsch,18,Midbrain midline nuclei,7,4,11
+48,Midbrain,18,Midbrain midline nuclei,34,24,58
+49,Midbrain reticular nucleus,19,Midbrain reticular,390,221,611
+50,"Midbrain reticular nucleus, retrorubral area",19,Midbrain reticular,41,35,76
+51,Periaqueductal gray,20,Periaqueductal gray,71,53,124
+52,Paraventricular hypothalamic nucleus,21,Hypothalamic Periventricular Zone,80,148,228
+53,"Paraventricular hypothalamic nucleus, descending division",21,Hypothalamic Periventricular Zone,145,257,402
+54,"Periventricular hypothalamic nucleus, intermediate part",21,Hypothalamic Periventricular Zone,13,25,38
+55,Dorsomedial nucleus of the hypothalamus,22,Hypothalamic Lateral Zone,72,106,178
+56,Hypothalamus,22,Hypothalamic Lateral Zone,185,203,388
+57,Lateral hypothalamic area,22,Hypothalamic Lateral Zone,210,199,409
+58,Zona incerta,22,Hypothalamic Lateral Zone,18,21,39
+59,Anterior hypothalamic nucleus,23,Hypothalamic Medial Zone,0,0,0
+60,Posterior hypothalamic nucleus,23,Hypothalamic Medial Zone,21,31,52
+61,Ventromedial hypothalamic nucleus,23,Hypothalamic Medial Zone,21,12,33
+62,Perireunensis nucleus,24,Thalamus,0,0,0
+63,"Subparafascicular nucleus, magnocellular part",24,Thalamus,2,7,9
+64,Thalamus,24,Thalamus,0,8,8
+65,Ventral medial nucleus of the thalamus,24,Thalamus,0,4,4
+66,Nucleus of reuniens,24,Thalamus,0,0,0
+67,"Central amygdalar nucleus, medial part",30,Unused,0,0,0
+68,Substantia innominata,30,Unused,0,15,15
+69,Corticospinal,25,Corticospinal,4074,3988,8062
