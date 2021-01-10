@@ -1,0 +1,70 @@
+﻿Region ID,Region-name,Shortname,Abbrv,Category-ID,Category-Name, 136-L, 136-R, 136-Tot,Color
+1,Dorsal motor nucleus of the vagus nerve,Dorsal Mot. Nuc. Vagus,DMX,1,Solitariospinal Area,11,165,176,#FA9600
+2,Cuneate nucleus,Cuneate nucleus,CU,1,Solitariospinal Area,12,1,13,#FA9600
+3,Gracile nucleus,Gracile nucleus,GR,1,Solitariospinal Area,1,0,1,#FA9600
+4,Nucleus of the solitary tract,Nuc. Solitary Tract,NST,1,Solitariospinal Area,93,90,183,#FA9600
+5,Medulla,Medulla,MY,1,Solitariospinal Area,140,264,404,#FA9600
+6,"Medullary reticular nucleus, ventral part","Medullary Ret. Nuc., ventral",MDRNd,2,Medullary Reticular Nuclei,623,139,762,#0000FA
+7,"Medullary reticular nucleus, dorsal part","Medullary Ret. Nuc., dorsal",MDRNv,2,Medullary Reticular Nuclei,331,262,593,#0000FA
+8,Magnocellular reticular nucleus,Magnocellular Ret. Nuc.,MARN,3,Magnocellular Ret. Nuc.,512,1026,1538,#003296
+9,Gigantocellular reticular nucleus,Gigantocellular Ret. Nuc.,GRN,4,Gigantocellular reticular nucleus,5376,4255,9631,#00FFFF
+10,"Lateral reticular nucleus, magnocellular part","Lat. Ret. Nuc., magnocellular",LRNm,5,Lateral Reticular Nuclei,280,172,452,#0096FF
+11,"Paragigantocellular reticular nucleus, lateral part","Paragiganto. Ret. Nuc, lateral",PGRNl,5,Lateral Reticular Nuclei,415,358,773,#0096FF
+12,Intermediate reticular nucleus,Intermediate Ret. Nuc,IRN,5,Lateral Reticular Nuclei,1402,154,1556,#0096FF
+13,Parvicellular reticular nucleus,Parvicellular Ret. Nuc.,PARN,5,Lateral Reticular Nuclei,2,0,2,#0096FF
+14,"Paragigantocellular reticular nucleus, dorsal part","Paragigant. Ret. Nuc., dorsal",PGRNd,6,Dorsal Reticular Nucleus,3,12,15,#0064FF
+15,Nucleus raphe magnus,Nucleus raphe magnus,RM,7,Raphe Nuclei,349,446,795,#00C8FF
+16,Nucleus raphe obscurus,Nucleus raphe obscurus,RO,7,Raphe Nuclei,41,118,159,#00C8FF
+17,Facial motor nucleus,Facial motor nucleus,VII,30,Unused,10,5,15,#808080
+18,Hypoglossal nucleus,Hypoglossal nucleus,XII,8,Perihypoglossal Area,23,21,44,#C86400
+19,Nucleus of Roller,Nucleus of Roller,NR,8,Perihypoglossal Area,1,0,1,#C86400
+20,Nucleus prepositus,Nucleus prepositus,PRP,8,Perihypoglossal Area,0,0,0,#C86400
+21,"Spinal nucleus of the trigeminal, interpolar part","Spinal Nuc. Trig., interpolar",SPVI,9,Medullary Trigeminal Area,0,7,7,#808080
+22,"Spinal nucleus of the trigeminal, caudal part","Spinal Nuc. Trig., caudal",SPVC,9,Medullary Trigeminal Area,11,9,20,#808080
+23,Spinal vestibular nucleus,Spinal vestibular nucleus,SPIV,10,Vestibular Nuclei,100,36,136,#462300
+24,Medial vestibular nucleus,Medial vestibular nucleus,MV,10,Vestibular Nuclei,25,24,49,#462300
+25,Lateral vestibular nucleus,Lateral vestibular nucleus,LAV,10,Vestibular Nuclei,1,0,1,#462300
+26,"Pontine reticular nucleus, caudal part","Pontine Ret. Nuc., caudal",PRNc,11,Pontine Reticular Nuclei,477,256,733,#BEBEBE
+27,Pontine reticular nucleus,Pontine reticular nucleus,PRNr,11,Pontine Reticular Nuclei,772,515,1287,#BEBEBE
+28,"Superior olivary complex, lateral part","Sup. olivary complex, lateral",SOCl,12,Superior Olivary Complex,10,9,19,#808080
+29,"Superior olivary complex, medial part","Sup. olivary complex, medial",SOCm,12,Superior Olivary Complex,9,11,20,#808080
+30,"Superior olivary complex, periolivary region","Sup. olivary, periolivary",POR,12,Superior Olivary Complex,0,5,5,#808080
+31,Peritrigeminal zone,Peritrigeminal zone,P5,13,Pontine Trigeminal Area,15,3,18,#808080
+32,Supratrigeminal nucleus,Supratrigeminal nucleus,SUT,13,Pontine Trigeminal Area,9,8,17,#808080
+33,Pontine central gray,Pontine central gray,PGC,14,Pontine Central Gray Area,338,362,700,#AFAF00
+34,Sublaterodorsal nucleus,Sublaterodorsal nucleus,SLD,14,Pontine Central Gray Area,126,103,229,#AFAF00
+35,Laterodorsal tegmental nucleus,Laterodorsal tegmental Nuc.,LDT,14,Pontine Central Gray Area,144,153,297,#AFAF00
+36,Subceruleus nucleus,Subceruleus nucleus,SLC,14,Pontine Central Gray Area,0,0,0,#AFAF00
+37,Barrington's nucleus,Barrington's nucleus,B,14,Pontine Central Gray Area,58,43,101,#AFAF00
+38,Pons,Pons,P,14,Pontine Central Gray Area,532,360,892,#AFAF00
+39,Locus ceruleus,Locus ceruleus,LC,30,Unused,5,10,15,#808080
+40,Parabrachial nucleus,Parabrachial nucleus,PB,15,Parabrachial / Pedunculopontine,1,4,5,#C8C800
+41,Pedunculopontine nucleus,Pedunculopontine nucleus,PPN,15,Parabrachial / Pedunculopontine,201,108,309,#C8C800
+42,Fastigial nucleus,Fastigial nucleus,FN,16,Cerebellospinal Nuclei,0,0,0,#FF1E96
+43,Interposed nucleus,Interposed nucleus,IP,16,Cerebellospinal Nuclei,0,0,0,#FF1E96
+44,Red nucleus,Red nucleus,RN,17,Red Nucleus,612,594,1206,#FFFF00
+45,Edinger-Westphal nucleus,Edinger-Westphal nucleus,EW,18,Midbrain Midline Nuclei,16,16,32,#FFE678
+46,Interstitial nucleus of Cajal,Interstitial nucleus of Cajal,INC,18,Midbrain Midline Nuclei,34,36,70,#FFE678
+47,Nucleus of Darkschewitsch,Nucleus of Darkschewitsch,ND,18,Midbrain Midline Nuclei,3,8,11,#FFE678
+48,Midbrain,Midbrain,MB,18,Midbrain Midline Nuclei,48,38,86,#FFE678
+49,Midbrain reticular nucleus,Midbrain reticular nucleus,MRN,19,Midbrain Reticular Nuclei,241,264,505,#D2D250
+50,"Midbrain reticular nucleus, retrorubral area","Midbrn Ret. Nuc., retrorubral",RR,19,Midbrain Reticular Nuclei,20,23,43,#D2D250
+51,Periaqueductal gray,Periaqueductal gray,PAG,20,Periaqueductal Gray,107,102,209,#000000
+52,Paraventricular hypothalamic nucleus,Paraventricular Hyp. Nuc.,PVH,21,Hypothalamic Periventricular Zone,114,77,191,#6432A0
+53,"Paraventricular hypothalamic nucleus, descending division","Paraventric. Hyp., descend",PVHd,21,Hypothalamic Periventricular Zone,118,61,179,#6432A0
+54,"Periventricular hypothalamic nucleus, intermediate part","Periventric. Hyp., interm.",Pvi,21,Hypothalamic Periventricular Zone,7,1,8,#6432A0
+55,Dorsomedial nucleus of the hypothalamus,Dorsomedial Nuc.  Hypothal.,DMH,22,Hypothalamic Lateral Area,14,20,34,#8C32A0
+56,Hypothalamus,Hypothalamus,HY,22,Hypothalamic Lateral Area,201,178,379,#8C32A0
+57,Lateral hypothalamic area,Lateral hypothalamic area,LHA,22,Hypothalamic Lateral Area,183,81,264,#8C32A0
+58,Zona incerta,Zona incerta,ZI,22,Hypothalamic Lateral Area,17,12,29,#8C32A0
+59,Anterior hypothalamic nucleus,Anterior hypothal. nucleus,AHN,23,Hypothalamic Medial Area,5,0,5,#B432A0
+60,Posterior hypothalamic nucleus,Posterior hypothal. nucleus,PH,23,Hypothalamic Medial Area,3,3,6,#B432A0
+61,Ventromedial hypothalamic nucleus,Ventromedial Hyp. Nuc.,VMH,23,Hypothalamic Medial Area,16,21,37,#B432A0
+62,Perireunensis nucleus,Perireunensis nucleus,PR,24,Thalamus,2,4,6,#808080
+63,"Subparafascicular nucleus, magnocellular part","Subparafasc. Nuc., magno.",SPFm,24,Thalamus,3,1,4,#808080
+64,Thalamus,Thalamus,TH,24,Thalamus,7,8,15,#808080
+65,Ventral medial nucleus of the thalamus,Ventral med.l Nuc. thalamus,VM,24,Thalamus,2,0,2,#808080
+66,Nucleus of reuniens,Nucleus of reuniens,RE,24,Thalamus,0,0,0,#808080
+67,"Central amygdalar nucleus, medial part","Central amyg. Nuc., medial",CEAm,30,Unused,0,0,0,#808080
+68,Substantia innominata,Substantia innominata,SI,30,Unused,0,0,0,#808080
+69,Corticospinal,Corticospinal,CST,25,Corticospinal,3362,4052,7414,#009600
