@@ -1,0 +1,70 @@
+﻿New 2D number,Region,, 176-Tot,Category-Name
+1,Dorsal motor nucleus of the vagus nerve,1,86.0,Solitariospinal Area
+2,Cuneate nucleus,1,0.0,Solitariospinal Area
+3,Gracile nucleus,1,0.0,Solitariospinal Area
+4,Nucleus of the solitary tract,1,90.8,Solitariospinal Area
+5,Medulla,1,75.2,Solitariospinal Area
+6,"Medullary reticular nucleus, ventral part",2,92.1,Medullary Reticular Nuclei
+7,"Medullary reticular nucleus, dorsal part",2,97.0,Medullary Reticular Nuclei
+8,Magnocellular reticular nucleus,3,38.6,Magnocellular Ret. Nuc.
+9,Gigantocellular reticular nucleus,4,81.3,Gigantocellular reticular nucleus
+10,"Lateral reticular nucleus, magnocellular part",5,59.8,Lateral Reticular Nuclei
+11,"Paragigantocellular reticular nucleus, lateral part",5,46.7,Lateral Reticular Nuclei
+12,Intermediate reticular nucleus,5,90.0,Lateral Reticular Nuclei
+13,Parvicellular reticular nucleus,5,96.8,Lateral Reticular Nuclei
+14,"Paragigantocellular reticular nucleus, dorsal part",6,96.2,Dorsal Reticular Nucleus
+15,Nucleus raphe magnus,7,43.1,Raphe Nuclei
+16,Nucleus raphe obscurus,7,0.0,Raphe Nuclei
+17,Facial motor nucleus,30,88.5,Unused
+18,Hypoglossal nucleus,8,93.0,Perihypoglossal Area
+19,Nucleus of Roller,8,100.0,Perihypoglossal Area
+20,Nucleus prepositus,8,99.4,Perihypoglossal Area
+21,"Spinal nucleus of the trigeminal, interpolar part",9,47.9,Medullary Trigeminal Area
+22,"Spinal nucleus of the trigeminal, caudal part",9,78.0,Medullary Trigeminal Area
+23,Spinal vestibular nucleus,10,64.5,Vestibular Nuclei
+24,Medial vestibular nucleus,10,96.4,Vestibular Nuclei
+25,Lateral vestibular nucleus,10,82.3,Vestibular Nuclei
+26,"Pontine reticular nucleus, caudal part",11,55.1,Pontine Reticular Nuclei
+27,Pontine reticular nucleus,11,53.1,Pontine Reticular Nuclei
+28,"Superior olivary complex, lateral part",12,0.0,Superior Olivary Complex
+29,"Superior olivary complex, medial part",12,0.0,Superior Olivary Complex
+30,"Superior olivary complex, periolivary region",12,0.0,Superior Olivary Complex
+31,Peritrigeminal zone,13,76.9,Pontine Trigeminal Area
+32,Supratrigeminal nucleus,13,73.2,Pontine Trigeminal Area
+33,Pontine central gray,14,16.7,Pontine Central Gray Area
+34,Sublaterodorsal nucleus,14,22.2,Pontine Central Gray Area
+35,Laterodorsal tegmental nucleus,14,36.0,Pontine Central Gray Area
+36,Subceruleus nucleus,14,18.1,Pontine Central Gray Area
+37,Barrington's nucleus,14,12.5,Pontine Central Gray Area
+38,Pons,14,44.1,Pontine Central Gray Area
+39,Locus ceruleus,30,0.0,Unused
+40,Parabrachial nucleus,15,89.9,Parabrachial / Pedunculopontine
+41,Pedunculopontine nucleus,15,48.6,Parabrachial / Pedunculopontine
+42,Fastigial nucleus,16,100.0,Cerebellospinal Nuclei
+43,Interposed nucleus,16,100.0,Cerebellospinal Nuclei
+44,Red nucleus,17,39.9,Red Nucleus
+45,Edinger-Westphal nucleus,18,0.0,Midbrain Midline Nuclei
+46,Interstitial nucleus of Cajal,18,79.0,Midbrain Midline Nuclei
+47,Nucleus of Darkschewitsch,18,92.1,Midbrain Midline Nuclei
+48,Midbrain,18,74.1,Midbrain Midline Nuclei
+49,Midbrain reticular nucleus,19,77.3,Midbrain Reticular Nuclei
+50,"Midbrain reticular nucleus, retrorubral area",19,50.0,Midbrain Reticular Nuclei
+51,Periaqueductal gray,20,48.3,Periaqueductal Gray
+52,Paraventricular hypothalamic nucleus,21,1.3,Hypothalamic Periventricular Zone
+53,"Paraventricular hypothalamic nucleus, descending division",21,5.6,Hypothalamic Periventricular Zone
+54,"Periventricular hypothalamic nucleus, intermediate part",21,7.7,Hypothalamic Periventricular Zone
+55,Dorsomedial nucleus of the hypothalamus,22,48.5,Hypothalamic Lateral Area
+56,Hypothalamus,22,43.4,Hypothalamic Lateral Area
+57,Lateral hypothalamic area,22,42.3,Hypothalamic Lateral Area
+58,Zona incerta,22,43.3,Hypothalamic Lateral Area
+59,Anterior hypothalamic nucleus,23,96.7,Hypothalamic Medial Area
+60,Posterior hypothalamic nucleus,23,14.0,Hypothalamic Medial Area
+61,Ventromedial hypothalamic nucleus,23,35.7,Hypothalamic Medial Area
+62,Perireunensis nucleus,24,1.4,Thalamus
+63,"Subparafascicular nucleus, magnocellular part",24,10.4,Thalamus
+64,Thalamus,24,7.6,Thalamus
+65,Ventral medial nucleus of the thalamus,24,12.9,Thalamus
+66,Nucleus of reuniens,24,8.1,Thalamus
+67,"Central amygdalar nucleus, medial part",30,94.8,Unused
+68,Substantia innominata,30,0.0,Unused
+69,Corticospinal,25,73.0,Corticospinal
