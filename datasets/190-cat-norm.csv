@@ -1,26 +1,26 @@
 Summary number,Region, 190-L, 190-R, 190-Tot
-1,Solitariospinal Area,112,151,263
-2,Medullary Reticular Nuclei,29,81,110
-3,Magnocellular Ret. Nuc.,32,71,103
-4,Gigantocellular reticular nucleus,1829,2427,4256
-5,Lateral Reticular Nuclei,196,249,445
-6,Dorsal Reticular Nucleus,0,1,1
-7,Raphe Nuclei,178,129,307
-8,Perihypoglossal Area,20,32,52
-9,Medullary Trigeminal Area,0,0,0
-10,Vestibular Nuclei,21,32,53
-11,Pontine Reticular Nuclei,281,298,579
-12,Superior Olivary Complex,8,0,8
-13,Pontine Trigeminal Area,3,3,6
-14,Pontine Central Gray Area,488,458,946
-15,Parabrachial / Pedunculopontine,22,99,121
-16,Cerebellospinal Nuclei,0,0,0
-17,Red Nucleus,335,510,845
-18,Midbrain Midline Nuclei,25,14,39
-19,Midbrain Reticular Nuclei,85,61,146
-20,Periaqueductal Gray,9,14,23
-21,Hypothalamic Periventricular Zone,10,27,37
-22,Hypothalamic Lateral Area,27,60,87
-23,Hypothalamic Medial Area,3,4,7
-24,Thalamus,7,13,20
-25,Corticospinal,95,290,385
+1,Solitariospinal Area,24.18484129,37.84461153,30.50690175
+2,Medullary Reticular Nuclei,3.573188763,14.41281139,8.008153757
+3,Magnocellular Ret. Nuc.,9.299622203,23.53331124,15.94921028
+4,Gigantocellular reticular nucleus,35.58088865,59.29491095,46.09303081
+5,Lateral Reticular Nuclei,19.71434319,27.6974416,23.50517642
+6,Dorsal Reticular Nucleus,-1,-1,2.808988764
+7,Raphe Nuclei,69.55842126,60.33676333,65.36086864
+8,Perihypoglossal Area,46.08294931,88.15426997,65.2446675
+9,Medullary Trigeminal Area,-1,-1,0
+10,Vestibular Nuclei,23.75565611,31.43418468,27.86540484
+11,Pontine Reticular Nuclei,24.13260048,26.51481449,25.3026264
+12,Superior Olivary Complex,38.83495146,-1,22.9226361
+13,Pontine Trigeminal Area,-1,-1,21.42857143
+14,Pontine Central Gray Area,59.6941896,70.21309214,64.3624983
+15,Parabrachial / Pedunculopontine,14.33224756,83.19327731,44.40366972
+16,Cerebellospinal Nuclei,-1,-1,-1
+17,Red Nucleus,52.09953344,65.0925335,59.23589204
+18,Midbrain Midline Nuclei,21.2404418,18.44532279,20.1446281
+19,Midbrain Reticular Nuclei,28.65812542,24.51768489,26.7693436
+20,Periaqueductal Gray,6.66173205,19.28374656,11.07366394
+21,Hypothalamic Periventricular Zone,4.171881519,13.80368098,8.499885137
+22,Hypothalamic Lateral Area,4.515050167,13.38986833,8.316604531
+23,Hypothalamic Medial Area,6.329113924,12.57861635,8.838383838
+24,Thalamus,9.943181818,38.57566766,19.21229587
+25,Corticospinal,2.286787184,7.023492371,4.647906028
